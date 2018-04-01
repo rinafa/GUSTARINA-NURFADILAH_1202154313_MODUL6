@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1062061074032",
+    "firebase_url": "https://gustarinanurfadilah1202154313.firebaseio.com",
+    "project_id": "gustarinanurfadilah1202154313",
+    "storage_bucket": "gustarinanurfadilah1202154313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062061074032:android:ff2f85b39edb78e5",
+        "android_client_info": {
+          "package_name": "si3901.rinafdlh.gustarina_nurfadilah_1202154313_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062061074032-n1cfol3ultkem24a01i7eei1nk444mmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJiLt7Y3lUq39oEpf1beImp5eNmeBV58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
